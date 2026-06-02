@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="200" viewBox="0 0 860 200" fill="none" role="img" aria-label="Bohdan Rykush — Full-Stack Developer and System Architect">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0a0e14"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.86" cy="0.18" r="0.7">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#1e293b"/>
+    </pattern>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="859" height="199" rx="16" fill="url(#bg)" stroke="#1f2630"/>
+  <rect x="1" y="1" width="858" height="198" rx="15" fill="url(#dots)" opacity="0.6"/>
+  <rect x="1" y="1" width="858" height="198" rx="15" fill="url(#glow)"/>
+
+  <!-- Icon badge -->
+  <rect x="40" y="72" width="56" height="56" rx="14" fill="#0f141b" stroke="#1f2630"/>
+  <rect x="40.5" y="72.5" width="55" height="55" rx="13.5" fill="none" stroke="url(#accent)" stroke-opacity="0.35"/>
+  <g transform="translate(68, 100)" stroke="#38bdf8" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M-14 -8L-22 -4v8l8 4 8-4V-4z"/>
+    <path d="M-14 0l8 4 8-4"/>
+    <path d="M-14 0V8l8 4"/>
+  </g>
+
+  <rect x="112" y="72" width="3" height="56" rx="1.5" fill="url(#accent)"/>
+
+  <text x="128" y="92" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#f0f6fc" letter-spacing="-0.5">Bohdan Rykush</text>
+  <text x="130" y="122" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" fill="#8b949e" letter-spacing="2.5">FULL-STACK DEVELOPER &#183; SYSTEM ARCHITECT</text>
+  <text x="130" y="152" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#6e7681">Production web platforms &#8212; React interfaces to distributed backends &amp; infrastructure.</text>
+
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <circle cx="724" cy="88" r="3" fill="#38bdf8"/>
+    <text x="736" y="93" font-size="14" font-weight="600" fill="#38bdf8" letter-spacing="0.5">rykush.com</text>
+  </g>
+</svg>
