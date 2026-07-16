@@ -121,16 +121,16 @@
 <br/>
 
 <div align="center">
-  <img height="165" alt="GitHub Stats" src="assets/stats.svg" />
+  <img height="165" alt="GitHub Stats" src="assets/stats.svg?v=20260716" />
   &nbsp;&nbsp;
-  <img height="165" alt="GitHub Streak" src="assets/streak.svg" />
+  <img height="165" alt="GitHub Streak" src="assets/streak.svg?v=20260716" />
 </div>
 
 <br/>
 <br/>
 
 <div align="center">
-  <img alt="GitHub contribution graph" src="assets/snake.svg" />
+  <img alt="GitHub contribution graph" src="assets/snake.svg?v=20260716" />
 </div>
 
 <br/>
