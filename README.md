@@ -1,6 +1,6 @@
 <!-- ░░░ HERO ░░░ -->
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border:none; background:transparent; border-collapse:collapse; width:100%; table-layout:fixed;">
+<table border="0" cellpadding="0" cellspacing="0" width="1000" style="border:none; background:transparent; border-collapse:collapse; width:100%; max-width:100%; table-layout:fixed;">
 <tr>
 <td valign="top" width="6%" style="border:none; background:transparent; padding-top:4px;">
 
