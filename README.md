@@ -4,7 +4,7 @@
 
 **Independent product engineer · Full-stack delivery**
 
-I help founders and product teams build websites and web applications from architecture to launch — combining thoughtful product decisions, hands-on engineering, and accountable delivery.
+I help founders and product teams build websites and web applications from architecture to launch - combining thoughtful product decisions, hands-on engineering, and accountable delivery.
 
 [Website](https://rykush.com) &nbsp;·&nbsp; [Case studies](https://rykush.com/case-studies) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/bohdan-rykush) &nbsp;·&nbsp; [Telegram](https://t.me/nikk1me)
 
@@ -29,7 +29,7 @@ Web applications that bring together product flows, frontend, backend, data, int
 
 **03 / Production delivery**
 
-Cloud infrastructure, CI/CD, monitoring, and controlled releases — from first deployment through ongoing improvement.
+Cloud infrastructure, CI/CD, monitoring, and controlled releases - from first deployment through ongoing improvement.
 
 <br/>
 
@@ -42,11 +42,11 @@ Cloud infrastructure, CI/CD, monitoring, and controlled releases — from first 
 
 ## Selected work
 
-**[NikkMe](https://nikkme.com)** — browser-based screen sharing for focused demos, with up to 4K60, link-only viewing, and no installation. [View case study →](https://rykush.com/case-studies/nikkme)
+**[NikkMe](https://nikkme.com)** - browser-based screen sharing for focused demos, with up to 4K60, link-only viewing, and no installation. [View case study →](https://rykush.com/case-studies/nikkme)
 
 <br/>
 
-**[MedUS](https://med-us.com.ua)** — a continuing medical education platform delivered and supported across architecture, integrations, releases, and infrastructure. [View case study →](https://rykush.com/case-studies/freelancer-platform-redesign)
+**[MedUS](https://med-us.com.ua)** - a continuing medical education platform delivered and supported across architecture, integrations, releases, and infrastructure. [View case study →](https://rykush.com/case-studies/freelancer-platform-redesign)
 
 <br/>
 <br/>
