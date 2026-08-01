@@ -28,11 +28,16 @@ jobs:
             "https://streak-stats.demolab.com/?user=BohdanRykush&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=38BDF8&fire=38BDF8&currStreakNum=C9D1D9&currStreakLabel=8B949E&sideNums=C9D1D9&sideLabels=8B949E&dates=484F58" \
             -o assets/streak.svg
 
+      - name: Refresh README image cache keys
+        run: |
+          cache_key="$(date -u +%Y%m%d)"
+          sed -i -E "s#(assets/(stats|streak)\.svg\?v=)[^\"]+#\1${cache_key}#g" README.md
+
       - name: Commit updated SVGs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/stats.svg assets/streak.svg
+          git add README.md assets/stats.svg assets/streak.svg
           git diff --staged --quiet || git commit -m "chore: update README stats SVGs"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
