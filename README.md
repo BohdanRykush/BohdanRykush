@@ -121,9 +121,9 @@
 <br/>
 
 <div align="center">
-  <img height="165" alt="GitHub Stats" src="assets/stats.svg?v=20260716" />
+  <img height="165" alt="GitHub Stats" src="assets/stats.svg?v=20260801" />
   &nbsp;&nbsp;
-  <img height="165" alt="GitHub Streak" src="assets/streak.svg?v=20260716" />
+  <img height="165" alt="GitHub Streak" src="assets/streak.svg?v=20260801" />
 </div>
 
 <p align="center"><sub>Includes anonymized activity from public and private repositories.</sub></p>
@@ -132,7 +132,7 @@
 <br/>
 
 <div align="center">
-  <img alt="GitHub contribution graph" src="assets/snake.svg?v=20260716" />
+  <img alt="GitHub contribution graph" src="assets/snake.svg?v=20260801" />
 </div>
 
 <br/>
