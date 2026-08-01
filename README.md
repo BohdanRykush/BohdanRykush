@@ -126,6 +126,8 @@
   <img height="165" alt="GitHub Streak" src="assets/streak.svg?v=20260716" />
 </div>
 
+<p align="center"><sub>Includes anonymized activity from public and private repositories.</sub></p>
+
 <br/>
 <br/>
 
