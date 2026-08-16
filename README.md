@@ -56,9 +56,9 @@ Cloud infrastructure, CI/CD, monitoring, and controlled releases - from first de
 ## Activity
 
 <div align="center">
-  <img height="165" alt="GitHub contribution statistics" src="assets/stats.svg?v=20260815" />
+  <img height="165" alt="GitHub contribution statistics" src="assets/stats.svg?v=20260816" />
   &nbsp;&nbsp;
-  <img height="165" alt="GitHub contribution streak" src="assets/streak.svg?v=20260815" />
+  <img height="165" alt="GitHub contribution streak" src="assets/streak.svg?v=20260816" />
 </div>
 
 <p align="center"><sub>A snapshot of public and anonymized private contribution activity.</sub></p>
