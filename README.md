@@ -38,19 +38,6 @@ Cloud infrastructure, CI/CD, monitoring, and controlled releases - from first de
 <br/>
 <br/>
 
-<!-- WORK -->
-
-## Selected work
-
-**[NikkMe](https://nikkme.com)** - browser-based screen sharing for focused demos, with up to 4K60, link-only viewing, and no installation. [View case study →](https://rykush.com/case-studies/nikkme)
-
-<br/>
-
-**[MedUS](https://med-us.com.ua)** - a continuing medical education platform delivered and supported across architecture, integrations, releases, and infrastructure. [View case study →](https://rykush.com/case-studies/freelancer-platform-redesign)
-
-<br/>
-<br/>
-
 <!-- ACTIVITY -->
 
 ## Activity
