@@ -24,9 +24,14 @@ jobs:
 
       - name: Fetch streak card
         run: |
-          curl -fSL --retry 3 --retry-delay 10 --max-time 180 \
+          if curl -fSL --retry 3 --retry-delay 10 --max-time 60 \
             "https://streak-stats.demolab.com/?user=BohdanRykush&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=38BDF8&fire=38BDF8&currStreakNum=C9D1D9&currStreakLabel=8B949E&sideNums=C9D1D9&sideLabels=8B949E&dates=484F58" \
-            -o assets/streak.svg
+            -o assets/streak.svg.tmp && [ -s assets/streak.svg.tmp ]; then
+            mv assets/streak.svg.tmp assets/streak.svg
+          else
+            echo "::warning::streak-stats.demolab.com is temporarily unavailable (HTTP 503 or timeout). Preserving previous assets/streak.svg."
+            rm -f assets/streak.svg.tmp
+          fi
 
       - name: Refresh README image cache keys
         run: |
